@@ -1,0 +1,1 @@
+const gear_hoe = Java.loadClass("net.silentchaos512.gear.item.gear.GearHoeItem")

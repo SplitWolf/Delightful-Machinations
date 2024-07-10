@@ -1,0 +1,22 @@
+{
+  "id": "other-chest_-1399-63-280",
+  "name": "other chest",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8738906-waypoint-icon.png",
+  "x": -1399,
+  "y": 63,
+  "z": 280,
+  "r": 122,
+  "g": 167,
+  "b": 166,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

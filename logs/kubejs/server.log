@@ -1,0 +1,99 @@
+[04:22:23] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[04:22:23] [INIT] Loaded plugins:
+[04:22:23] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[04:22:23] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[04:22:23] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[04:22:23] [INIT] - com.wolfieboy09.kjscc.ComputerCraftPlugin
+[04:22:23] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[04:22:23] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[04:22:23] [INIT] - com.oierbravo.create_mechanical_spawner.compat.kubejs.KubeJSCreateMechanicalSpawnerPlugin
+[04:22:23] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[04:22:23] [INIT] - moe.wolfgirl.probejs.plugin.BuiltinProbeJSPlugin
+[04:22:23] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[04:22:23] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[04:22:25] [INFO] Loaded script server_scripts:src/ae2_gen.js in 0.005 s
+[04:22:25] [INFO] Loaded script server_scripts:src/alexscaves.js in 0.001 s
+[04:22:25] [INFO] Loaded script server_scripts:src/beautify.js in 0.0 s
+[04:22:25] [INFO] Loaded script server_scripts:src/bloodmagic.js in 0.0 s
+[04:22:25] [INFO] Loaded script server_scripts:src/cookingforblockheads.js in 0.001 s
+[04:22:25] [INFO] Loaded script server_scripts:src/create.js in 0.001 s
+[04:22:25] [INFO] Loaded script server_scripts:src/extremereactor.js in 0.001 s
+[04:22:25] [INFO] Loaded script server_scripts:src/iceandfire.js in 0.0 s
+[04:22:25] [INFO] Loaded script server_scripts:src/mekanism.js in 0.0 s
+[04:22:25] [INFO] Loaded script server_scripts:src/minecolonies.js in 0.001 s
+[04:22:25] [INFO] Loaded script server_scripts:src/minecraft.js in 0.002 s
+[04:22:25] [INFO] Loaded script server_scripts:src/morered_gen.js in 0.006 s
+[04:22:25] [INFO] Loaded script server_scripts:src/mysticalagriculture.js in 0.001 s
+[04:22:25] [INFO] Loaded script server_scripts:src/mystical_essence_mixing.js in 0.005 s
+[04:22:25] [INFO] Loaded script server_scripts:src/occultism.js in 0.001 s
+[04:22:25] [INFO] Loaded script server_scripts:src/ore_drop_swap.js in 0.001 s
+[04:22:25] [INFO] Loaded script server_scripts:src/pamhc2.js in 0.001 s
+[04:22:25] [INFO] Loaded script server_scripts:src/railcraft.js in 0.001 s
+[04:22:25] [INFO] Loaded script server_scripts:src/securitycraft.js in 0.0 s
+[04:22:25] [INFO] Loaded script server_scripts:src/silentgear.js in 0.0 s
+[04:22:25] [INFO] Loaded script server_scripts:src/TEST_FIX.js in 0.001 s
+[04:22:25] [INFO] Loaded 21/21 KubeJS server scripts in 0.046 s with 0 errors and 0 warnings
+[04:22:25] [INFO] Scripts loaded
+[04:22:25] [INFO] Initializing recipe event...
+[04:22:27] [INFO] [minecraft:item] Found 2884 tags, added 2 objects, removed 0 objects
+[04:22:33] [INFO] Processing recipes...
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/certus_quartz_dust[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'tfmg:crafting/epic_party_light_bulb[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/calculation_processor_print[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/calculation_processor[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/calculation_processor_press[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'tfmg:crafting/glass_cable_connector[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/logic_processor[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'create_things_and_misc:schematic_chair[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'tfmg:crafting/battery[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'peripherals:mob_data_card[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'tfmg:crafting/cast_iron_distillation_output[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'tfmg:stonecutting/caution_block[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'peripherals:enchanting_interface[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/sky_stone_dust[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/silicon_print[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'pamhc2foodcore:caramelcupcakeitem_x4[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'tfmg:mechanical_crafting/pumpjack_hammer_holder[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/silicon_press[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/logic_processor_press[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'pamhc2foodcore:melonpieitem[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/logic_processor_print[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/fluix_dust[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'create_things_and_misc:netheriteportablewithlecraft[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'peripherals:loom_interface[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'peripherals:anvil_interface[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'pamhc2foodcore:honeymuffinitem[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'peripherals:grindstone_interface[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/ender_dust[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'create_things_and_misc:copper_scaffolding_craft[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/engineering_processor[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'tfmg:mechanical_crafting/cast_iron_distillation_controller[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/engineering_processor_press[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'tfmg:crafting/welding_machine[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'tfmg:stonecutting/caution_blocks/light_blue_caution_block[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:network/blocks/inscribers[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [WARN] Failed to parse recipe 'ae2:inscriber/engineering_processor_print[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[04:22:33] [INFO] Found 21488 recipes in 348.5 ms
+[04:22:33] [INFO] Posted recipe events in 360.3 ms
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/lime_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:lime_dye"}],"results":[{"item":"tfmg:lime_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/gray_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:gray_dye"}],"results":[{"item":"tfmg:gray_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/red_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:red_dye"}],"results":[{"item":"tfmg:red_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/white_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:white_dye"}],"results":[{"item":"tfmg:white_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe createappliedkinetics:throw_in_water/fluix_seed/normal[create:mixing]: {"type":"create:mixing","ingredients":[{"fluid":"minecraft:water","amount":100},{"item":"ae2:fluix_crystal_seed"}],"results":[{"item":"ae2:fluix_crystal"},{"fluid":"minecraft:water","amount":100}]}: Unknown item 'ae2:fluix_crystal_seed'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/yellow_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:yellow_dye"}],"results":[{"item":"tfmg:yellow_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/purple_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:purple_dye"}],"results":[{"item":"tfmg:purple_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe createappliedkinetics:throw_in_water/certus_seed/normal[create:mixing]: {"type":"create:mixing","ingredients":[{"fluid":"minecraft:water","amount":100},{"item":"ae2:certus_crystal_seed"}],"results":[{"item":"ae2:certus_quartz_crystal"},{"fluid":"minecraft:water","amount":100}],"processingTime":200}: Unknown item 'ae2:certus_crystal_seed'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/pink_concrete[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:_dye"}],"results":[{"item":"tfmg:_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe createappliedkinetics:throw_in_water/certus_seed/catalyzed[create:mixing]: {"type":"create:mixing","ingredients":[{"fluid":"minecraft:water","amount":100},{"item":"ae2:certus_crystal_seed"},{"item":"ae2:fluix_crystal"}],"results":[{"item":"ae2:certus_quartz_crystal"},{"fluid":"minecraft:water","amount":100},{"item":"ae2:fluix_crystal"}]}: Unknown item 'ae2:certus_crystal_seed'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/blue_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:blue_dye"}],"results":[{"item":"tfmg:blue_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/pink_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:pink_dye"}],"results":[{"item":"tfmg:pink_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/cyan_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:cyan_dye"}],"results":[{"item":"tfmg:cyan_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/magenta_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:magenta_dye"}],"results":[{"item":"tfmg:magenta_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/black_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:black_dye"}],"results":[{"item":"tfmg:black_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/green_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:green_dye"}],"results":[{"item":"tfmg:green_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/orange_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:orange_dye"}],"results":[{"item":"tfmg:orange_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/light_gray_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:light_gray_dye"}],"results":[{"item":"tfmg:light_gray_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/brown_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:brown_dye"}],"results":[{"item":"tfmg:brown_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:33] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/light_blue_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:light_blue_dye"}],"results":[{"item":"tfmg:light_blue_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[04:22:34] [INFO] Added 153 recipes, removed 106 recipes, modified 14 recipes, with 20 failed recipes in 1.013 s
+[04:22:37] [INFO] Server resource reload complete!

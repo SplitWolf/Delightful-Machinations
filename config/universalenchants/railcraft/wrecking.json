@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:railway_tool"
+  ],
+  "incompatible": [
+    "minecraft:smite",
+    "minecraft:bane_of_arthropods",
+    "minecraft:sharpness",
+    "railcraft:implosion"
+  ]
+}

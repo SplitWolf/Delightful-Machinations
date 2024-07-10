@@ -1,0 +1,22 @@
+{
+  "id": "big-chestr_-1405-62-278",
+  "name": "big chestr",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13391326-waypoint-icon.png",
+  "x": -1405,
+  "y": 62,
+  "z": 278,
+  "r": 51,
+  "g": 170,
+  "b": 34,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

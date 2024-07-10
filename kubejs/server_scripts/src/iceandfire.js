@@ -1,0 +1,12 @@
+ServerEvents.recipes(event => {
+    event.remove({id:'iceandfire:armor_copper_metal_leggings'})
+    event.remove({id:'iceandfire:copper_hoe'})
+    event.remove({id:'iceandfire:copper_shovel'})
+    event.remove({id:'iceandfire:copper_axe'})
+    event.remove({id:'iceandfire:armor_copper_metal_boots'})
+    event.remove({id:'iceandfire:armor_copper_metal_chestplate'})
+    event.remove({id:'iceandfire:copper_sword'})
+    event.remove({id:'iceandfire:copper_pickaxe'})
+    event.remove({id:'iceandfire:armor_copper_metal_helmet'})
+    event.remove({id:'iceandfire:copper_nuggets_to_ingot'})
+})

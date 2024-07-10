@@ -1,0 +1,17 @@
+[03:56:51] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[03:56:51] [INIT] Loaded plugins:
+[03:56:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[03:56:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[03:56:51] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[03:56:51] [INIT] - com.wolfieboy09.kjscc.ComputerCraftPlugin
+[03:56:51] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[03:56:51] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[03:56:51] [INIT] - com.oierbravo.create_mechanical_spawner.compat.kubejs.KubeJSCreateMechanicalSpawnerPlugin
+[03:56:51] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[03:56:51] [INIT] - moe.wolfgirl.probejs.plugin.BuiltinProbeJSPlugin
+[03:56:51] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[03:56:51] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[03:56:51] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[03:56:51] [INFO] Loaded script client_scripts:example.js in 0.001 s
+[03:56:51] [INFO] Loaded 1/1 KubeJS client scripts in 0.113 s with 0 errors and 0 warnings
+[03:57:04] [INFO] Client resource reload complete!

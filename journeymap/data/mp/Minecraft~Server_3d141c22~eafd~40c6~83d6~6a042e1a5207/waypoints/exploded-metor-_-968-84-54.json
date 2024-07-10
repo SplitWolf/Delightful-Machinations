@@ -1,0 +1,22 @@
+{
+  "id": "exploded-metor-_-968-84-54",
+  "name": "exploded metor?",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13388192-waypoint-icon.png",
+  "x": -968,
+  "y": 84,
+  "z": 54,
+  "r": 51,
+  "g": 182,
+  "b": 96,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

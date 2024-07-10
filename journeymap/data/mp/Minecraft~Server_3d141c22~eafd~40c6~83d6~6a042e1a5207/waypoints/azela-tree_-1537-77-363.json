@@ -1,0 +1,22 @@
+{
+  "id": "azela-tree_-1537-77-363",
+  "name": "azela tree",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--3410672-waypoint-icon.png",
+  "x": -1537,
+  "y": 77,
+  "z": 363,
+  "r": 203,
+  "g": 245,
+  "b": 16,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

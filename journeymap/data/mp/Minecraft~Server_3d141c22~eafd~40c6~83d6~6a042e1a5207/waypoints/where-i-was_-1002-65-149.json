@@ -1,0 +1,22 @@
+{
+  "id": "where-i-was_-1002-65-149",
+  "name": "where i was",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--2089552-waypoint-icon.png",
+  "x": -1002,
+  "y": 65,
+  "z": 149,
+  "r": 224,
+  "g": 29,
+  "b": 176,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mines_-325-34-1081",
+  "name": "mines",
+  "groupName": ":Waystones",
+  "displayId": "0a65820f-fc90-41bf-b00c-fa13e4a5e0ef",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -325,
+  "y": -34,
+  "z": -1081,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

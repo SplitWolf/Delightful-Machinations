@@ -1,0 +1,22 @@
+{
+  "id": "lily-of-the-valley_-901-73-66",
+  "name": "lily of the valley",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--15860798-waypoint-icon.png",
+  "x": -901,
+  "y": 73,
+  "z": -66,
+  "r": 13,
+  "g": 251,
+  "b": 194,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

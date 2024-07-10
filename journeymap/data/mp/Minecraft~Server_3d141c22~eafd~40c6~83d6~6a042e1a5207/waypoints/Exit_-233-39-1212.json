@@ -1,0 +1,22 @@
+{
+  "id": "Exit_-233-39-1212",
+  "name": "Exit",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--11162330-waypoint-icon.png",
+  "x": -233,
+  "y": 39,
+  "z": -1212,
+  "r": 85,
+  "g": 173,
+  "b": 38,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

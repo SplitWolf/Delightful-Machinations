@@ -1,0 +1,24 @@
+{
+  "id": "End-Portal_-1850-33-373",
+  "name": "End Portal",
+  "groupName": ":Waystones",
+  "displayId": "febc3d57-760f-4a21-985c-de2bf58b2941",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -1850,
+  "y": -33,
+  "z": -373,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

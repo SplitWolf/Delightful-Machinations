@@ -1,0 +1,22 @@
+{
+  "id": "parrot_-1223-72-267",
+  "name": "parrot",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--15702997-waypoint-icon.png",
+  "x": -1223,
+  "y": 72,
+  "z": 267,
+  "r": 16,
+  "g": 100,
+  "b": 43,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

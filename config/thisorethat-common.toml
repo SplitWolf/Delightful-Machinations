@@ -1,0 +1,3 @@
+#Whether to add the smelting recipes for the ores or not
+enableSmeltingRecipes = false
+

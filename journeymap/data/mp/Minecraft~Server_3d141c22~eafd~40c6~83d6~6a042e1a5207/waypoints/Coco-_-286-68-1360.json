@@ -1,0 +1,24 @@
+{
+  "id": "Coco-_-286-68-1360",
+  "name": "Coco!!!",
+  "groupName": ":Waystones",
+  "displayId": "316a5a8c-e0d0-40c2-b166-9acbe5ed73c5",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -286,
+  "y": 68,
+  "z": -1360,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

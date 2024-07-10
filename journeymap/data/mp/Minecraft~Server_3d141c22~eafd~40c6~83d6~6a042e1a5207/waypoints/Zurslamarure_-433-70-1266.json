@@ -1,0 +1,24 @@
+{
+  "id": "Zurslamarure_-433-70-1266",
+  "name": "Zurslamarure",
+  "groupName": ":Waystones",
+  "displayId": "9fdf89ec-4526-4e24-891e-a5f807464883",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -433,
+  "y": 70,
+  "z": -1266,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

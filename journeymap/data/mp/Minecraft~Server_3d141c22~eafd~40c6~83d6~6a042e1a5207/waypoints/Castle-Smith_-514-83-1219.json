@@ -1,0 +1,24 @@
+{
+  "id": "Castle-Smith_-514-83-1219",
+  "name": "Castle Smith",
+  "groupName": ":Waystones",
+  "displayId": "ad3cd9f4-1d4f-4a20-9023-c5e8be04a555",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -514,
+  "y": 83,
+  "z": -1219,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

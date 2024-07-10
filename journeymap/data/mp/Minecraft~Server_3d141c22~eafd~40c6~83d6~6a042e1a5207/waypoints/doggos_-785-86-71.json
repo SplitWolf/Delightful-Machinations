@@ -1,0 +1,22 @@
+{
+  "id": "doggos_-785-86-71",
+  "name": "doggos",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12547204-waypoint-icon.png",
+  "x": -785,
+  "y": 86,
+  "z": -71,
+  "r": 64,
+  "g": 139,
+  "b": 124,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

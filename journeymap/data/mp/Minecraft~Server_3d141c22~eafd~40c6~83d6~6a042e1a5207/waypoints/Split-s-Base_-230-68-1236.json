@@ -1,0 +1,24 @@
+{
+  "id": "Split-s-Base_-230-68-1236",
+  "name": "Split\u0027s Base",
+  "groupName": ":Waystones",
+  "displayId": "12472c4e-2ca3-4bf0-861f-e05f54623e4c",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -230,
+  "y": 68,
+  "z": -1236,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

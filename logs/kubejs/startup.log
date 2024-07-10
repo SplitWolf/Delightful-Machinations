@@ -1,0 +1,24 @@
+[03:56:49] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[03:56:49] [INIT] Loaded plugins:
+[03:56:49] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[03:56:49] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[03:56:49] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[03:56:49] [INIT] - com.wolfieboy09.kjscc.ComputerCraftPlugin
+[03:56:49] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[03:56:49] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[03:56:49] [INIT] - com.oierbravo.create_mechanical_spawner.compat.kubejs.KubeJSCreateMechanicalSpawnerPlugin
+[03:56:49] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[03:56:49] [INIT] - moe.wolfgirl.probejs.plugin.BuiltinProbeJSPlugin
+[03:56:49] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[03:56:49] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[03:56:51] [INFO] silent_gear_hoe.js#1: Loaded Java class 'net.silentchaos512.gear.item.gear.GearHoeItem'
+[03:56:51] [INFO] Loaded script startup_scripts:silent_gear_hoe.js in 0.26 s
+[03:56:51] [INFO] Loaded script startup_scripts:src/master_infusion_cream.js in 0.012 s
+[03:56:51] [INFO] test/mystblock.js#1: Loaded Java class 'com.blakebr0.mysticalagriculture.block.InfusedFarmlandBlock'
+[03:56:51] [INFO] test/mystblock.js#4: Loaded Java class 'com.blakebr0.mysticalagriculture.api.crop.CropTier'
+[03:56:51] [INFO] test/mystblock.js#7: Loaded Java class 'net.minecraft.ChatFormatting'
+[03:56:51] [INFO] test/mystblock.js#8: Loaded Java class 'net.minecraft.resources.ResourceLocation'
+[03:56:51] [INFO] test/mystblock.js#11: Loaded Java class 'net.minecraft.world.level.block.Blocks'
+[03:56:51] [INFO] test/mystblock.js#12: Loaded Java class 'net.minecraft.world.item.Items'
+[03:56:51] [INFO] Loaded script startup_scripts:test/mystblock.js in 0.048 s
+[03:56:51] [INFO] Loaded 3/3 KubeJS startup scripts in 1.676 s with 0 errors and 0 warnings

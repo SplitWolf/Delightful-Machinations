@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dreadbow"
+  ],
+  "incompatible": [
+    "alexscaves:dark_nock",
+    "alexscaves:twilight_perfection",
+    "alexscaves:precise_volley"
+  ]
+}
