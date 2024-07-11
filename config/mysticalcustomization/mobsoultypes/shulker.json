@@ -1,0 +1,8 @@
+{
+    "name": "Shulker",
+    "souls": 4,
+    "entities": [
+      "minecraft:shulker"
+    ],
+    "color": "916491"
+  }

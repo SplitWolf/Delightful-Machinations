@@ -1,0 +1,13 @@
+{
+    "name": "Shulker",
+    "type": "mob",
+    "tier": "mysticalagriculture:4",
+    "colors": {
+      "flower": "916491",
+      "seeds": "916491"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_rock",
+      "essence": "mysticalagriculture:item/essence_rock"
+    }
+}

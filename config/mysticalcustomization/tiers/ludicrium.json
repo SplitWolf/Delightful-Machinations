@@ -1,0 +1,8 @@
+{
+    "name": "§d7",
+    "value": 7,
+    "farmland": "mysticalagradditions:insanium_farmland",
+    "essence": "kubejs:ludicrium_essence",
+    "fertilizable": false,
+    "secondarySeedDrop": false
+}

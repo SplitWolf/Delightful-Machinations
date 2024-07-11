@@ -1,0 +1,16 @@
+{
+    "name": "Bort",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "silentgear:bort"
+    },
+    "colors": {
+      "flower": "849dc4",
+      "seeds": "849dc4"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_rock",
+      "essence": "mysticalagriculture:item/essence_tall_gem"
+    }
+  }

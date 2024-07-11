@@ -1,0 +1,14 @@
+{
+    "name": "Warden",
+    "type": "mob",
+    "tier": "mysticalcustomization:ludicrium",
+    "colors": {
+      "flower": "042933",
+      "seeds": "042933"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_rock",
+      "essence": "mysticalagriculture:item/essence_rock"
+    },
+    "crux": "kubejs:warden_crux"
+}

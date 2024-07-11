@@ -1,0 +1,8 @@
+{
+    "name": "Phantom",
+    "souls": 4,
+    "entities": [
+      "minecraft:phantom"
+    ],
+    "color": "5264a9"
+}

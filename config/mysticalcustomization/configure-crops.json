@@ -1,1 +1,17 @@
-{}
+{
+    "mysticalagriculture:netherite": {
+        "tier": "mysticalagradditions:6"
+    },
+
+    "mysticalagradditions:dragon_egg": {
+        "tier": "mysticalcustomization:ludicrium"
+    },
+
+    "mysticalagradditions:nether_star": {
+        "tier": "mysticalcustomization:ludicrium"
+    },
+
+    "mysticalagradditions:nitro_crystal": {
+        "tier": "mysticalcustomization:ludicrium"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Phantom",
+    "type": "mob",
+    "tier": "mysticalagriculture:3",
+    "colors": {
+      "flower": "5264a9",
+      "seeds": "5264a9"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_rock",
+      "essence": "mysticalagriculture:item/essence_rock"
+    }
+}

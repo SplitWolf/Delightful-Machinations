@@ -1,0 +1,13 @@
+{
+    "name": "Crimson Steel",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+      "item": "silentgear:crimson_steel_ingot"
+    },
+    "color": "dc143c",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot"
+    }
+  }

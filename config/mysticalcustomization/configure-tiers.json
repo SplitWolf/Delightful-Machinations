@@ -1,1 +1,6 @@
-{}
+{
+    "mysticalagradditions:6": {
+        "fertilizable": true,
+        "secondarySeedDrop": true
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Warden",
+    "souls": 1,
+    "entities": [
+      "minecraft:warden"
+    ],
+    "color": "042933"
+}

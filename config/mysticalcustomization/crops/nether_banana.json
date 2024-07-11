@@ -1,0 +1,17 @@
+{
+    "name": "Nether Banana",
+    "type": "resource",
+    "tier": "mysticalcustomization:ludicrium",
+    "ingredient": {
+      "item": "silentgear:nether_banana"
+    },
+    "colors": {
+      "flower": "4e889e",
+      "seeds": "4e889e"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_rock",
+      "essence": "mysticalagriculture:item/essence_rod"
+    },
+    "crux": "kubejs:nether_banana_crux"
+  }

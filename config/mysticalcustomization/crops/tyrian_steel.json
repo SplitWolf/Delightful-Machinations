@@ -1,0 +1,13 @@
+{
+    "name": "Tyrian Steel",
+    "type": "resource",
+    "tier": "mysticalagradditions:6",
+    "ingredient": {
+      "item": "silentgear:tyrian_steel_ingot"
+    },
+    "color": "b01080",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot"
+    }
+  }
