@@ -1,0 +1,19 @@
+{
+    "bookshelf:load_conditions": [
+      {
+        "type": "bookshelf:item_exists",
+        "values": "kubejs:nitro_crystal_botany_crux"
+      }
+    ],
+    "type": "botanypots:soil",
+    "input": {
+      "item": "kubejs:nitro_crystal_botany_crux"
+    },
+    "display": {
+      "block": "mysticalagradditions:insanium_farmland"
+    },
+    "categories": [
+      "nitro_crystal_crux"
+    ],
+    "growthModifier": 1.35
+  }

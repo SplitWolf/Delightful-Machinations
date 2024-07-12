@@ -1,0 +1,19 @@
+{
+    "bookshelf:load_conditions": [
+      {
+        "type": "bookshelf:item_exists",
+        "values": "kubejs:nether_banana_botany_crux"
+      }
+    ],
+    "type": "botanypots:soil",
+    "input": {
+      "item": "kubejs:nether_banana_botany_crux"
+    },
+    "display": {
+      "block": "mysticalagradditions:insanium_farmland"
+    },
+    "categories": [
+      "nether_banana_crux"
+    ],
+    "growthModifier": 1.35
+  }

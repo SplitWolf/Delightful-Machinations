@@ -1,0 +1,41 @@
+{
+    "bookshelf:load_conditions": [
+        {
+            "type": "bookshelf:item_exists",
+            "values": [
+                "mysticalagriculture:blaze_gold_seeds",
+                "mysticalagriculture:blaze_gold_essence"
+            ]
+        }
+    ],
+    "type": "botanypots:crop",
+    "seed": {
+        "item": "mysticalagriculture:blaze_gold_seeds"
+    },
+    "categories": [
+        "imperium"
+    ],
+    "growthTicks": 3600,
+    "display": {
+        "type": "botanypots:aging",
+        "block": "mysticalagriculture:blaze_gold_crop"
+    },
+    "drops": [
+        {
+            "chance": 0.275,
+            "output": {
+                "item": "mysticalagriculture:blaze_gold_essence"
+            },
+            "minRolls": 2,
+            "maxRolls": 2
+        },
+        {
+            "chance": 0.01,
+            "output": {
+                "item": "mysticalagriculture:fertilized_essence"
+            },
+            "minRolls": 1,
+            "maxRolls": 1
+        }
+    ]
+}

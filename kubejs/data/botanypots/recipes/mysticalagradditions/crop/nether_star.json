@@ -1,0 +1,41 @@
+{
+    "bookshelf:load_conditions": [
+        {
+            "type": "bookshelf:item_exists",
+            "values": [
+                "mysticalagriculture:nether_star_seeds",
+                "mysticalagriculture:nether_star_essence"
+            ]
+        }
+    ],
+    "type": "botanypots:crop",
+    "seed": {
+        "item": "mysticalagriculture:nether_star_seeds"
+    },
+    "categories": [
+        "nether_star_crux"
+    ],
+    "growthTicks": 6000,
+    "display": {
+        "type": "botanypots:aging",
+        "block": "mysticalagriculture:nether_star_crop"
+    },
+    "drops": [
+        {
+            "chance": 0.05,
+            "output": {
+                "item": "mysticalagriculture:nether_star_essence"
+            },
+            "minRolls": 2,
+            "maxRolls": 2
+        },
+        {
+            "chance": 0.01,
+            "output": {
+                "item": "mysticalagriculture:fertilized_essence"
+            },
+            "minRolls": 1,
+            "maxRolls": 1
+        }
+    ]
+}
