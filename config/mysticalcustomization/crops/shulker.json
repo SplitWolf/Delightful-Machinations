@@ -3,7 +3,6 @@
     "type": "mob",
     "tier": "mysticalagriculture:4",
     "colors": {
-      "flower": "916491",
       "seeds": "916491"
     },
     "textures": {

@@ -3,7 +3,6 @@
     "type": "mob",
     "tier": "mysticalcustomization:ludicrium",
     "colors": {
-      "flower": "042933",
       "seeds": "042933"
     },
     "textures": {
