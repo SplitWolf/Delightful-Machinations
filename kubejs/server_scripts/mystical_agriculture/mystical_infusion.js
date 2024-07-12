@@ -4,7 +4,7 @@ ServerEvents.recipes(event => {
     function mobInfusion(mob, soulAmount, tieredEssence) {
         infusion(
             "mysticalagriculture:" + mob + "_seeds",
-            "mysticalagriculture:prosperity_seed_base",
+            "mysticalagriculture:soulium_seed_base",
             [
                 Item.of("mysticalagriculture:soul_jar", "{Type:'mysticalcustomization:" + mob + "', Souls:" + soulAmount + "}").strongNBT(),
                 tieredEssence,
