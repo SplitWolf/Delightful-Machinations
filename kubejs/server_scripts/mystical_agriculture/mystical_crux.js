@@ -22,4 +22,21 @@ ServerEvents.recipes(event => {
     cruxShaped("kubejs:ludicrium_essence", "silentgear:nether_banana", "silentgear:nether_banana", "kubejs:nether_banana_crux")
     cruxShaped("kubejs:ludicrium_essence", "minecraft:sculk_sensor", "minecraft:sculk_catalyst", "kubejs:warden_crux")
 
+    function botanyCruxShaped(mod, cruxName) {
+        event.shaped("kubejs:" + cruxName + "_botany_crux", [
+            " I ",
+            " V ",
+            " P "
+        ], {
+            V: mod + ":" + cruxName + "_crux",
+            I: "mysticalagradditions:insanium_farmland",
+            P: "minecraft:flower_pot"
+        })
+    }
+
+    botanyCruxShaped("kubejs", "nether_banana")
+    botanyCruxShaped("mysticalagradditions", "nether_star")
+    botanyCruxShaped("kubejs", "warden")
+    botanyCruxShaped("mysticalagradditions", "dragon_egg")
+    botanyCruxShaped("mysticalagradditions", "nitro_crystal")
 })
