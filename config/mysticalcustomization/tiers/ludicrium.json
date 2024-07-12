@@ -4,5 +4,6 @@
     "farmland": "mysticalagradditions:insanium_farmland",
     "essence": "kubejs:ludicrium_essence",
     "fertilizable": false,
-    "secondarySeedDrop": false
+    "secondarySeedDrop": false,
+    "color": "d70baa"
 }
