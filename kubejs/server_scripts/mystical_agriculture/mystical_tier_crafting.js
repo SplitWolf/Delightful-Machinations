@@ -21,6 +21,11 @@ ServerEvents.recipes(event => {
         "9x kubejs:ludicrium_essence",
         "kubejs:ludicrium_block"
     )
+
+    event.shapeless(
+        "4x mysticalagradditions:insanium_essence",
+        "kubejs:ludicrium_essence"
+    )
     
     event.shaped("kubejs:ludicrium_essence", [
         " E ",
